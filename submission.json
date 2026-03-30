@@ -1,0 +1,7 @@
+{
+  "prompt": "A single, emotionally powerful conceptual image: a long row of identical baby cribs arranged in a straight line across a landscape.\n\nOn the left side, the cribs are in a warm, safe environment — soft golden light, clean blankets, calm atmosphere. As the row progresses to the right, the environment gradually deteriorates — the lighting becomes cold and dim, the ground cracks, the air becomes hazy.\n\nAt the far right, the cribs begin to tip and fall off a steep cliff into darkness, disappearing into a deep void below. Some cribs are already falling mid-air.\n\nNo people visible. No text, no labels, no charts.\n\nThe composition should clearly show a transition from safety to danger, symbolizing inequality in child survival depending on birthplace.\n\nStyle: cinematic, editorial photography, magazine cover aesthetic, ultra-realistic, dramatic lighting, shallow depth of field, high detail.\n\nNegative prompt: no graphs, no bar charts, no infographics, no text, no numbers, no symbols, no icons.",
+  "model": "DALL·E 3",
+  "dataset_name": "Child Mortality Rate - Our World in Data",
+  "dataset_url": "https://ourworldindata.org/grapher/child-mortality-around-the-world",
+  "insight": "A child’s chance of survival is drastically determined by where they are born."
+}
